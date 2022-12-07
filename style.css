@@ -1,0 +1,224 @@
+*{
+    background-color: azure;
+    font-family: cursive;
+}
+.container {
+    width: 93vw;
+    display: flex;
+    background-color: whitesmoke;
+    padding: 2%;
+    margin: 1%;
+    border-radius: 5px;
+    box-shadow: 5px 4px red;
+}
+.container:hover{
+    background-color: aqua;
+    transition: 2s;
+    animation-duration: 1s;
+    box-shadow: -5px -4px red;
+}
+
+#m1 {
+    height: 15vh;
+    width: 15vw;
+    background-color: aliceblue;
+    border: 2px solid white;
+    /* margin: 1%; */
+    box-shadow: 3px 4px white;
+    border-radius: 5px;
+    /* display: none; */
+}
+#m1:hover {
+    height: 18vh;
+    width: 18vw;
+    /* margin: 2%; */
+    transition: 2s;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#m1 img {
+    height: 15vh;
+    width: 15vw;
+    align-items: center;
+}
+#m1 img:hover {
+    height: 18vh;
+    width: 18vw;
+    transition: 2s;
+}
+
+#m2 {
+    height: 15vh;
+    width: 15vw;
+    background-color: aliceblue;
+    border: 2px solid white;
+    /* margin: 1%; */
+    box-shadow: 3px 4px white;
+    border-radius: 5px;
+    /* display: none; */
+}
+#m2:hover {
+    height: 18vh;
+    width: 18vw;
+    /* margin: 2%; */
+    transition: 2s;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#m2 img {
+    height: 15vh;
+    width: 15vw;
+    align-items: center;
+}
+#m2 img:hover {
+    height: 18vh;
+    width: 18vw;
+    transition: 2s;
+}
+
+#m3 {
+    height: 15vh;
+    width: 15vw;
+    background-color: aliceblue;
+    border: 2px solid white;
+    /* margin: 1%; */
+    box-shadow: 3px 4px white;
+    border-radius: 5px;
+}
+#m3:hover {
+    height: 18vh;
+    width: 18vw;
+    /* margin: 2%; */
+    transition: 2s;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#m3 img {
+    height: 15vh;
+    width: 15vw;
+    align-items: center;
+}
+#m3 img:hover {
+    height: 18vh;
+    width: 18vw;
+    transition: 2s;
+}
+
+#m4 {
+    height: 15vh;
+    width: 15vw;
+    background-color: aliceblue;
+    border: 2px solid white;
+    /* margin: 1%; */
+    box-shadow: 3px 4px white;
+    border-radius: 5px;
+}
+#m4:hover {
+    height: 18vh;
+    width: 18vw;
+    /* margin: 2%; */
+    transition: 2s;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#m4 img {
+    height: 15vh;
+    width: 15vw;
+    align-items: center;
+}
+#m4 img:hover {
+    height: 18vh;
+    width: 18vw;
+    transition: 2s;
+}
+
+#m5 {
+    height: 15vh;
+    width: 15vw;
+    background-color: aliceblue;
+    border: 2px solid white;
+    /* margin: 1%; */
+    box-shadow: 3px 4px white;
+    border-radius: 5px;
+}
+#m5:hover {
+    height: 18vh;
+    width: 18vw;
+    /* margin: 2%; */
+    transition: 2s;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#m5 img {
+    height: 15vh;
+    width: 15vw;
+    align-items: center;
+}
+#m5 img:hover {
+    height: 18vh;
+    width: 18vw;
+    transition: 2s;
+}
+#m6 {
+    height: 15vh;
+    width: 15vw;
+    background-color: aliceblue;
+    border: 2px solid white;
+    /* margin: 1%; */
+    box-shadow: 3px 4px white;
+    border-radius: 5px;
+    /* display: none; */
+}
+#m6:hover {
+    height: 18vh;
+    width: 18vw;
+    /* margin: 2%; */
+    transition: 2s;
+    background-color: antiquewhite;
+    text-align: center;
+}
+#m6 img {
+    height: 15vh;
+    width: 15vw;
+    align-items: center;
+}
+#m6 img:hover {
+    height: 18vh;
+    width: 18vw;
+    transition: 2s;
+}
+
+
+#input {
+    height: 5vh;
+    width: 30vw;
+    margin-left: 30%;
+    background-color: azure;
+    outline: none;
+    border: 1px solid wheat;
+    border-radius: 15px;
+    box-shadow: 3px 4px aliceblue;
+}
+
+#input:hover {
+    height: 6vh;
+    /* width: 40vw; */
+    transition: 5s;
+    background-color: blanchedalmond;
+}
+
+#btn {
+    height: 30px;
+    width: 60px;
+    background-color: gray;
+    border: 1px solid bisque;
+    border-radius: 50px;
+    box-shadow: -1px -2px lightslategray;
+}
+
+#btn:hover {
+    height: 35px;
+    width: 65px;
+    transition: 1s;
+    background-color: blue;
+}
